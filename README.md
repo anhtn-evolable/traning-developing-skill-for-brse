@@ -14,7 +14,7 @@ This is a course to improve developing skill for bridge system engineer, and exp
   * Coding skills.
     * Dependency injection.
     * I18n.
-		* Password encryption.
+    * Password encryption.
   * Testing.
   * Release.
   * Update and release.
@@ -43,7 +43,6 @@ This course is deviced in two parts, which are running paralelly: Software devel
 5. Testing
 6. Release
 7. Security
-9. User manual
 8. More effiction (vagrant, CI/CD).
 
 ### Coding skill
@@ -53,10 +52,6 @@ This course is deviced in two parts, which are running paralelly: Software devel
 1. ActiveRecord, Performance
 1. Migrating and command line
 1. I18n
-　　* https://www.yiiframework.com/doc/guide/2.0/en/tutorial-i18n
-　　* ./yii message/config --languages=en,ja --messagePath=messages messages/config.php
-  * 'sourcePath' => '@app',
-　　* Add /vendor to Exception
 1. Validation
 1. DRY
 1. Flag (bitwise)
@@ -67,11 +62,14 @@ This course is deviced in two parts, which are running paralelly: Software devel
 1. Logging
 1. RBAC
 1. Security
-  Login attemps
+  * IP restriction
+  * Login attemps
+  
 1. Testing
 1. Configuration and environtment (advanced template)
 1. .gitignore
 1. Package management
+
 
 Note
 Dont release on Friday
